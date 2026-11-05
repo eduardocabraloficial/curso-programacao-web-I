@@ -1,0 +1,19 @@
+.homologacao, .producao{
+    background-color: antiqueWhite;
+}
+
+.producao #p{
+    color: lightBlue;
+}
+
+h2{
+    background-color: black;
+}
+
+#lh{
+    color: white; 
+}
+
+#pp{
+    color: yellow;
+}
