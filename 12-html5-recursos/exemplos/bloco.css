@@ -1,9 +1,17 @@
 body{
-    background-color: #a3a3a3;
+    background-color: #00105B;
 }
 
 .container{
     display: flex;
-    background-color: #00105B;
-    flex-direction: column;
+    background-color: #6061B6;
+    flex-direction: row;
+    justify-content: center;
+    /*justify-content: space-between;*/
+    gap: 10px;
+    flex-wrap: nowrap;
+}
+
+.container .item{
+    background-color: #C9B5E0;
 }
